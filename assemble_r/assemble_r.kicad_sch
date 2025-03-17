@@ -1378,6 +1378,18 @@
 		(uuid "295bdebb-758a-43de-a345-1458c5ee21c5")
 	)
 	(junction
+		(at 50.8 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30410e72-7dc1-481f-9f92-54b21b8f2dec")
+	)
+	(junction
+		(at 69.85 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36b2a870-9f88-4b29-945e-6bf20b26bda8")
+	)
+	(junction
 		(at 60.96 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1402,7 +1414,7 @@
 		(uuid "651ae430-bb8c-40d8-aaf3-36303c835289")
 	)
 	(junction
-		(at 121.92 177.8)
+		(at 60.96 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "665bd53c-e289-40a4-bf54-4c5e499ee89f")
@@ -1460,12 +1472,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87489931-1c5f-4e87-b920-5d4276bc2fc2")
-	)
-	(junction
-		(at 127 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "89f16206-d127-408b-88e4-bc15bc7052c8")
 	)
 	(junction
 		(at 60.96 101.6)
@@ -1528,10 +1534,10 @@
 		(uuid "a5275c56-3b02-421d-ba05-4840601930d9")
 	)
 	(junction
-		(at 143.51 151.13)
+		(at 88.9 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ad5a1996-ab0b-4537-8cb1-f29968b9e0c7")
+		(uuid "b7526d3e-22fd-46d9-99a4-bab0ffa9dde7")
 	)
 	(junction
 		(at 99.06 158.75)
@@ -1540,7 +1546,7 @@
 		(uuid "b79a3cb3-e671-4685-87c7-3d1c256144d7")
 	)
 	(junction
-		(at 137.16 177.8)
+		(at 80.01 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba76829f-9116-449b-a736-75f3ae5e54c7")
@@ -1580,12 +1586,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d731b21c-1874-4c2d-ba8a-ced01d14c65d")
-	)
-	(junction
-		(at 111.76 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dabe0235-f8db-468a-a49e-ba00cbcf514b")
 	)
 	(junction
 		(at 127 129.54)
@@ -1671,16 +1671,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 151.13) (xy 111.76 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "079cef50-cb40-4190-999f-b541fd376eb9")
-	)
-	(wire
-		(pts
 			(xy 73.66 27.94) (xy 92.71 27.94)
 		)
 		(stroke
@@ -1761,16 +1751,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 177.8) (xy 137.16 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32829c6c-4b9e-4160-92d9-6296d2600adf")
-	)
-	(wire
-		(pts
 			(xy 69.85 76.2) (xy 69.85 93.98)
 		)
 		(stroke
@@ -1841,13 +1821,23 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 177.8) (xy 121.92 177.8)
+			(xy 34.29 177.8) (xy 60.96 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4962183e-5d46-4cf0-a057-820097668bbe")
+	)
+	(wire
+		(pts
+			(xy 69.85 151.13) (xy 69.85 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d292b34-6a76-477d-ac7a-e37d0be2de7a")
 	)
 	(wire
 		(pts
@@ -2071,6 +2061,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 151.13) (xy 88.9 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a6c7c8-5a8e-49e0-9e86-94712287789c")
+	)
+	(wire
+		(pts
 			(xy 34.29 158.75) (xy 60.96 158.75)
 		)
 		(stroke
@@ -2128,16 +2128,6 @@
 			(type default)
 		)
 		(uuid "b590b10d-e188-4c35-9397-80a0d8135792")
-	)
-	(wire
-		(pts
-			(xy 127 151.13) (xy 127 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b75e6438-8086-4edd-bc4b-5c95b45a2e95")
 	)
 	(wire
 		(pts
@@ -2211,6 +2201,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 151.13) (xy 50.8 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce955055-07f9-4113-9c24-fb33bef952ac")
+	)
+	(wire
+		(pts
 			(xy 60.96 101.6) (xy 80.01 101.6)
 		)
 		(stroke
@@ -2218,6 +2218,16 @@
 			(type default)
 		)
 		(uuid "cedebd8b-13aa-468d-8ba2-f93e02d9e9f1")
+	)
+	(wire
+		(pts
+			(xy 60.96 177.8) (xy 80.01 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9438d40-94ed-4857-a72d-d0856aad1a2d")
 	)
 	(wire
 		(pts
@@ -2241,23 +2251,13 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 177.8) (xy 153.67 177.8)
+			(xy 80.01 177.8) (xy 99.06 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e663ac1d-15c1-465e-9c01-0a60d96b81a3")
-	)
-	(wire
-		(pts
-			(xy 143.51 151.13) (xy 143.51 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6ceea80-ffed-4f22-b1bf-ef9c6783de89")
+		(uuid "df3ecfdb-49d7-4f10-abda-8a1a803bc1c2")
 	)
 	(wire
 		(pts
@@ -2891,7 +2891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "019d815d-0527-4020-9727-4d1df15d8e93")
-		(property "Reference" "SW23"
+		(property "Reference" "SW51"
 			(at 132.08 143.51 0)
 			(effects
 				(font
@@ -2907,7 +2907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 146.05 0)
 			(effects
 				(font
@@ -2943,7 +2943,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW23")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -2951,7 +2951,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 116.84 170.18 0)
+		(at 55.88 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2959,8 +2959,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03ce2357-84c5-4ccd-b979-4ab776431b33")
-		(property "Reference" "SW25"
-			(at 116.84 162.56 0)
+		(property "Reference" "SW33"
+			(at 55.88 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,15 +2968,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 116.84 165.1 0)
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 165.1 0)
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +2985,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 165.1 0)
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2994,7 +2994,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 170.18 0)
+			(at 55.88 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,7 +3011,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW25")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -3093,7 +3093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "061c1cea-94dc-4f46-ac96-ff220e0bca48")
-		(property "Reference" "SW18"
+		(property "Reference" "SW54"
 			(at 148.59 121.92 0)
 			(effects
 				(font
@@ -3109,7 +3109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 124.46 0)
 			(effects
 				(font
@@ -3145,7 +3145,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW18")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -3161,7 +3161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b2311c1-5dcf-44c5-a4f3-45e2f90d72cc")
-		(property "Reference" "SW22"
+		(property "Reference" "SW47"
 			(at 116.84 143.51 0)
 			(effects
 				(font
@@ -3177,7 +3177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -3213,7 +3213,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW22")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -3229,7 +3229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d70757f-d815-4b06-b585-137aef3fa8b8")
-		(property "Reference" "SW15"
+		(property "Reference" "SW41"
 			(at 93.98 121.92 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 124.46 0)
 			(effects
 				(font
@@ -3281,7 +3281,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW15")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -3297,7 +3297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11deb626-45c1-41e7-8324-78658a014549")
-		(property "Reference" "D6"
+		(property "Reference" "D52"
 			(at 156.21 96.5199 90)
 			(effects
 				(font
@@ -3315,7 +3315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 97.79 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D6")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -3385,7 +3385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "127c32f6-d5f9-4552-b5de-b69e20ce1a5d")
-		(property "Reference" "SW28"
+		(property "Reference" "SW56"
 			(at 182.88 30.48 0)
 			(effects
 				(font
@@ -3401,7 +3401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:ResetSW"
 			(at 182.88 33.02 0)
 			(effects
 				(font
@@ -3437,7 +3437,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW28")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -3453,7 +3453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cd09392-00d1-49a1-a901-090eb58e2260")
-		(property "Reference" "SW16"
+		(property "Reference" "SW46"
 			(at 116.84 121.92 0)
 			(effects
 				(font
@@ -3469,7 +3469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 124.46 0)
 			(effects
 				(font
@@ -3505,7 +3505,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW16")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -3521,7 +3521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fe9805b-bda0-49c6-9d3d-dc27ae4bc416")
-		(property "Reference" "SW10"
+		(property "Reference" "SW45"
 			(at 116.84 105.41 0)
 			(effects
 				(font
@@ -3537,7 +3537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 107.95 0)
 			(effects
 				(font
@@ -3573,7 +3573,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW10")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Micon_BMP_7sKB"
 			(at 58.42 71.12 0)
 			(effects
 				(font
@@ -3793,7 +3793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28b70c83-3365-4f67-aeb0-0252b0eb7e61")
-		(property "Reference" "D4"
+		(property "Reference" "D44"
 			(at 124.46 96.5199 90)
 			(effects
 				(font
@@ -3811,7 +3811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 97.79 0)
 			(effects
 				(font
@@ -3865,7 +3865,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D4")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -3939,7 +3939,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 148.59 170.18 0)
+		(at 93.98 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3947,8 +3947,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e30a4bd-bad2-4697-adc3-e6e007e01d64")
-		(property "Reference" "SW27"
-			(at 148.59 162.56 0)
+		(property "Reference" "SW43"
+			(at 93.98 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,15 +3956,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 148.59 165.1 0)
+			(at 93.98 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 148.59 165.1 0)
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+			(at 93.98 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +3973,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 165.1 0)
+			(at 93.98 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3982,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 148.59 170.18 0)
+			(at 93.98 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +3999,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW27")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -4015,7 +4015,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "319bd7f8-6c26-4cb2-a146-7bad254f95a3")
-		(property "Reference" "SW13"
+		(property "Reference" "SW31"
 			(at 55.88 121.92 0)
 			(effects
 				(font
@@ -4031,7 +4031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 124.46 0)
 			(effects
 				(font
@@ -4067,7 +4067,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW13")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -4075,7 +4075,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 137.16 173.99 90)
+		(at 80.01 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4083,8 +4083,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fadcdba-073f-4190-9026-71e9cdce6269")
-		(property "Reference" "D26"
-			(at 139.7 172.7199 90)
+		(property "Reference" "D38"
+			(at 82.55 172.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4093,7 +4093,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 139.7 175.2599 90)
+			(at 82.55 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4101,8 +4101,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 137.16 173.99 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 80.01 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4111,7 +4111,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 173.99 0)
+			(at 80.01 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +4120,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 137.16 173.99 0)
+			(at 80.01 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +4129,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 137.16 173.99 0)
+			(at 80.01 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +4138,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 173.99 0)
+			(at 80.01 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +4155,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D26")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -4171,7 +4171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4120f783-7de6-4d54-a1d1-9c73a1df1fe5")
-		(property "Reference" "D12"
+		(property "Reference" "D53"
 			(at 156.21 115.5699 90)
 			(effects
 				(font
@@ -4189,7 +4189,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 116.84 0)
 			(effects
 				(font
@@ -4243,7 +4243,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D12")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -4259,7 +4259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cca5c61-265b-4727-afa4-c3cd4a6df949")
-		(property "Reference" "D7"
+		(property "Reference" "D30"
 			(at 63.5 115.5699 90)
 			(effects
 				(font
@@ -4277,7 +4277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 116.84 0)
 			(effects
 				(font
@@ -4331,7 +4331,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D7")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -4347,7 +4347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e4d1a2b-d6f8-401c-af6d-225d88e369f6")
-		(property "Reference" "D17"
+		(property "Reference" "D50"
 			(at 139.7 132.0799 90)
 			(effects
 				(font
@@ -4365,7 +4365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 133.35 0)
 			(effects
 				(font
@@ -4419,7 +4419,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D17")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -4435,7 +4435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "525baf75-b96b-4f5d-a12c-f7a53ec66297")
-		(property "Reference" "D23"
+		(property "Reference" "D51"
 			(at 139.7 153.6699 90)
 			(effects
 				(font
@@ -4453,7 +4453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 154.94 0)
 			(effects
 				(font
@@ -4507,7 +4507,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D23")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -4515,7 +4515,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 173.99 90)
+		(at 60.96 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4523,8 +4523,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57538445-a411-4585-a511-171b2597290a")
-		(property "Reference" "D25"
-			(at 124.46 172.7199 90)
+		(property "Reference" "D33"
+			(at 63.5 172.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +4533,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 124.46 175.2599 90)
+			(at 63.5 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4541,8 +4541,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 173.99 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 60.96 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4551,7 +4551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 173.99 0)
+			(at 60.96 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4560,7 +4560,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 173.99 0)
+			(at 60.96 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4569,7 +4569,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 173.99 0)
+			(at 60.96 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,7 +4578,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 173.99 0)
+			(at 60.96 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4595,7 +4595,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D25")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -4611,7 +4611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5777342a-4fef-4922-9b89-c67444f750b5")
-		(property "Reference" "D15"
+		(property "Reference" "D41"
 			(at 101.6 132.0799 90)
 			(effects
 				(font
@@ -4629,7 +4629,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 133.35 0)
 			(effects
 				(font
@@ -4683,7 +4683,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D15")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -4699,7 +4699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65d3dd78-3b71-4f42-8bbf-3a248f8da998")
-		(property "Reference" "SW20"
+		(property "Reference" "SW37"
 			(at 74.93 143.51 0)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 146.05 0)
 			(effects
 				(font
@@ -4751,7 +4751,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW20")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -4767,7 +4767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c2eec20-a4dc-4117-a347-6a19253aa086")
-		(property "Reference" "D3"
+		(property "Reference" "D39"
 			(at 101.6 96.5199 90)
 			(effects
 				(font
@@ -4785,7 +4785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -4839,7 +4839,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D3")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -4855,7 +4855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d85077c-ec5e-4560-beeb-1feb44df34f9")
-		(property "Reference" "SW1"
+		(property "Reference" "SW29"
 			(at 55.88 86.36 0)
 			(effects
 				(font
@@ -4871,7 +4871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -4907,7 +4907,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW1")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -4923,7 +4923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72768bc0-1139-46fd-90ac-6d6478624791")
-		(property "Reference" "D11"
+		(property "Reference" "D49"
 			(at 139.7 115.5699 90)
 			(effects
 				(font
@@ -4941,7 +4941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 116.84 0)
 			(effects
 				(font
@@ -4995,7 +4995,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D11")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -5027,7 +5027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Battery_BMP_2pin"
 			(at 180.34 58.42 0)
 			(effects
 				(font
@@ -5071,7 +5071,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 153.67 173.99 90)
+		(at 99.06 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5079,8 +5079,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "749d2d52-a727-4aff-b5f5-c0f43e156894")
-		(property "Reference" "D27"
-			(at 156.21 172.7199 90)
+		(property "Reference" "D43"
+			(at 101.6 172.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5089,7 +5089,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 156.21 175.2599 90)
+			(at 101.6 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5097,8 +5097,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 153.67 173.99 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5107,7 +5107,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 173.99 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5116,7 +5116,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 153.67 173.99 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5125,7 +5125,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 153.67 173.99 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5134,7 +5134,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 153.67 173.99 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,7 +5151,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D27")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -5233,7 +5233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76ea68d5-07e0-4a06-a3ad-6730eff3b85b")
-		(property "Reference" "D14"
+		(property "Reference" "D36"
 			(at 82.55 132.0799 90)
 			(effects
 				(font
@@ -5251,7 +5251,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 133.35 0)
 			(effects
 				(font
@@ -5305,7 +5305,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D14")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -5387,7 +5387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7af89b16-2e19-4fcd-b37b-2e6436d3e70d")
-		(property "Reference" "D24"
+		(property "Reference" "D55"
 			(at 156.21 153.6699 90)
 			(effects
 				(font
@@ -5405,7 +5405,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 154.94 0)
 			(effects
 				(font
@@ -5459,7 +5459,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D24")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -5539,9 +5539,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "80bcfd6d-b405-4654-a166-ed4b32b76809")
-		(property "Reference" "D20"
+		(property "Reference" "D37"
 			(at 82.55 153.6699 90)
 			(effects
 				(font
@@ -5559,7 +5558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 154.94 0)
 			(effects
 				(font
@@ -5613,7 +5612,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D20")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -5629,7 +5628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "863d3b78-7f78-4137-98d8-5ec93338bb16")
-		(property "Reference" "D16"
+		(property "Reference" "D46"
 			(at 124.46 132.0799 90)
 			(effects
 				(font
@@ -5647,7 +5646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 133.35 0)
 			(effects
 				(font
@@ -5701,7 +5700,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D16")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -5717,7 +5716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87ac38fc-1357-484a-993a-f11c2f82f843")
-		(property "Reference" "D22"
+		(property "Reference" "D47"
 			(at 124.46 153.6699 90)
 			(effects
 				(font
@@ -5735,7 +5734,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 154.94 0)
 			(effects
 				(font
@@ -5789,7 +5788,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D22")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -5805,7 +5804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87ebe755-a4ec-4e2e-9e68-8d3dd44520a3")
-		(property "Reference" "SW2"
+		(property "Reference" "SW34"
 			(at 74.93 86.36 0)
 			(effects
 				(font
@@ -5821,7 +5820,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 88.9 0)
 			(effects
 				(font
@@ -5857,7 +5856,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW2")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -5873,7 +5872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95270eec-855f-48f5-9553-ee97d4aa922c")
-		(property "Reference" "SW5"
+		(property "Reference" "SW48"
 			(at 132.08 86.36 0)
 			(effects
 				(font
@@ -5889,7 +5888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 88.9 0)
 			(effects
 				(font
@@ -5925,7 +5924,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW5")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -5941,7 +5940,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99587e42-a3fc-4fba-b496-4085af07482d")
-		(property "Reference" "D19"
+		(property "Reference" "D32"
 			(at 63.5 153.6699 90)
 			(effects
 				(font
@@ -5959,7 +5958,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 154.94 0)
 			(effects
 				(font
@@ -6013,7 +6012,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D19")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -6087,7 +6086,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 132.08 170.18 0)
+		(at 74.93 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6095,8 +6094,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e72b5fb-37a2-457d-94c0-5f3ffeaff9f5")
-		(property "Reference" "SW26"
-			(at 132.08 162.56 0)
+		(property "Reference" "SW38"
+			(at 74.93 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6104,15 +6103,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 132.08 165.1 0)
+			(at 74.93 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 132.08 165.1 0)
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+			(at 74.93 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6121,7 +6120,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 165.1 0)
+			(at 74.93 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,7 +6129,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 132.08 170.18 0)
+			(at 74.93 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,7 +6146,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW26")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -6229,7 +6228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a063da68-47ce-454b-9203-9ff672a9c1a1")
-		(property "Reference" "SW3"
+		(property "Reference" "SW39"
 			(at 93.98 86.36 0)
 			(effects
 				(font
@@ -6245,7 +6244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 88.9 0)
 			(effects
 				(font
@@ -6281,7 +6280,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW3")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -6297,7 +6296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3254fee-2b63-442d-8db3-85e26d4a75c6")
-		(property "Reference" "D1"
+		(property "Reference" "D29"
 			(at 63.5 96.5199 90)
 			(effects
 				(font
@@ -6315,7 +6314,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 97.79 0)
 			(effects
 				(font
@@ -6369,7 +6368,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D1")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -6385,7 +6384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a724a83d-7196-4ea2-ab4e-8b37663a258b")
-		(property "Reference" "SW12"
+		(property "Reference" "SW53"
 			(at 148.59 105.41 0)
 			(effects
 				(font
@@ -6401,7 +6400,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 107.95 0)
 			(effects
 				(font
@@ -6437,7 +6436,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW12")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -6453,7 +6452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3eb9b75-6d1d-435d-804a-f5fd0a2f19aa")
-		(property "Reference" "D10"
+		(property "Reference" "D45"
 			(at 124.46 115.5699 90)
 			(effects
 				(font
@@ -6471,7 +6470,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 116.84 0)
 			(effects
 				(font
@@ -6525,7 +6524,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D10")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -6541,7 +6540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b69fec5a-fc8d-4ff1-8206-daecdfe47d56")
-		(property "Reference" "SW7"
+		(property "Reference" "SW30"
 			(at 55.88 105.41 0)
 			(effects
 				(font
@@ -6557,7 +6556,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -6593,7 +6592,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW7")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -6609,7 +6608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc4c6345-8cc4-43b2-9e31-bb67527e0f59")
-		(property "Reference" "D13"
+		(property "Reference" "D31"
 			(at 63.5 132.0799 90)
 			(effects
 				(font
@@ -6627,7 +6626,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 133.35 0)
 			(effects
 				(font
@@ -6681,7 +6680,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D13")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -6697,7 +6696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf59ced2-1c59-47dd-a1e0-ca4c72b74dd4")
-		(property "Reference" "SW19"
+		(property "Reference" "SW32"
 			(at 55.88 143.51 0)
 			(effects
 				(font
@@ -6713,7 +6712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 146.05 0)
 			(effects
 				(font
@@ -6749,7 +6748,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW19")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -6765,7 +6764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf8e679e-64d2-44ff-b37e-d500b329840f")
-		(property "Reference" "SW14"
+		(property "Reference" "SW36"
 			(at 74.93 121.92 0)
 			(effects
 				(font
@@ -6781,7 +6780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 124.46 0)
 			(effects
 				(font
@@ -6817,7 +6816,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW14")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -6833,7 +6832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c39b9a2b-2d58-4a9e-ba12-c6ee8a8310f1")
-		(property "Reference" "SW8"
+		(property "Reference" "SW35"
 			(at 74.93 105.41 0)
 			(effects
 				(font
@@ -6849,7 +6848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 107.95 0)
 			(effects
 				(font
@@ -6885,7 +6884,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW8")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -6901,7 +6900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c956aa8e-cf60-4873-8d8e-49a99ea88ad0")
-		(property "Reference" "SW9"
+		(property "Reference" "SW40"
 			(at 93.98 105.41 0)
 			(effects
 				(font
@@ -6917,7 +6916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 107.95 0)
 			(effects
 				(font
@@ -6953,7 +6952,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW9")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -6969,7 +6968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca4dbf00-8bb5-4461-a780-85f6380d6abf")
-		(property "Reference" "D21"
+		(property "Reference" "D42"
 			(at 101.6 153.6699 90)
 			(effects
 				(font
@@ -6987,7 +6986,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 154.94 0)
 			(effects
 				(font
@@ -7041,7 +7040,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D21")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -7057,7 +7056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cec46eae-b049-44a4-b550-9adc8553fc6a")
-		(property "Reference" "SW11"
+		(property "Reference" "SW49"
 			(at 132.08 105.41 0)
 			(effects
 				(font
@@ -7073,7 +7072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 107.95 0)
 			(effects
 				(font
@@ -7109,7 +7108,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW11")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -7125,7 +7124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d567876b-99d6-4567-a73b-6c5af6b72e81")
-		(property "Reference" "D5"
+		(property "Reference" "D48"
 			(at 139.7 96.5199 90)
 			(effects
 				(font
@@ -7143,7 +7142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 97.79 0)
 			(effects
 				(font
@@ -7197,7 +7196,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D5")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -7213,7 +7212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6d56c62-4c06-42b5-a8ab-173252af9258")
-		(property "Reference" "D18"
+		(property "Reference" "D54"
 			(at 156.21 132.0799 90)
 			(effects
 				(font
@@ -7231,7 +7230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -7285,7 +7284,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D18")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -7367,7 +7366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7e07190-33a3-45a9-a98e-e9ff76d76351")
-		(property "Reference" "SW17"
+		(property "Reference" "SW50"
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -7383,7 +7382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 124.46 0)
 			(effects
 				(font
@@ -7419,7 +7418,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW17")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -7435,7 +7434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d925936a-aa96-4ff7-ad64-73a558eb75e8")
-		(property "Reference" "D2"
+		(property "Reference" "D34"
 			(at 82.55 96.5199 90)
 			(effects
 				(font
@@ -7453,7 +7452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 97.79 0)
 			(effects
 				(font
@@ -7507,7 +7506,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D2")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -7523,7 +7522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbcc2eec-5101-49fd-957b-80d0c9569067")
-		(property "Reference" "SW6"
+		(property "Reference" "SW52"
 			(at 148.59 86.36 0)
 			(effects
 				(font
@@ -7539,7 +7538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 88.9 0)
 			(effects
 				(font
@@ -7575,7 +7574,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW6")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -7591,7 +7590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0c3a195-ec4c-4a1e-a524-f719157ad90f")
-		(property "Reference" "SW24"
+		(property "Reference" "SW55"
 			(at 148.59 143.51 0)
 			(effects
 				(font
@@ -7607,7 +7606,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 146.05 0)
 			(effects
 				(font
@@ -7643,7 +7642,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW24")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -7659,7 +7658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e35aaa3c-59b3-4796-8c7d-3488b76bf815")
-		(property "Reference" "D9"
+		(property "Reference" "D40"
 			(at 101.6 115.5699 90)
 			(effects
 				(font
@@ -7677,7 +7676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 116.84 0)
 			(effects
 				(font
@@ -7731,7 +7730,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D9")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -7747,7 +7746,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea200c88-0311-4fc7-a354-6ad5e577c737")
-		(property "Reference" "D8"
+		(property "Reference" "D35"
 			(at 82.55 115.5699 90)
 			(effects
 				(font
@@ -7765,7 +7764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 116.84 0)
 			(effects
 				(font
@@ -7819,7 +7818,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D8")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -7835,7 +7834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1b96300-e43d-44e3-bc4f-3c973dcde4fa")
-		(property "Reference" "SW21"
+		(property "Reference" "SW42"
 			(at 93.98 143.51 0)
 			(effects
 				(font
@@ -7851,7 +7850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 146.05 0)
 			(effects
 				(font
@@ -7887,7 +7886,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW21")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -7903,7 +7902,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7c4a235-bfbf-436f-9279-5f92b968e4e7")
-		(property "Reference" "SW4"
+		(property "Reference" "SW44"
 			(at 116.84 86.36 0)
 			(effects
 				(font
@@ -7919,7 +7918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 88.9 0)
 			(effects
 				(font
@@ -7955,7 +7954,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW4")
+					(reference "SW44")
 					(unit 1)
 				)
 			)

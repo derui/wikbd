@@ -2907,7 +2907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 146.05 0)
 			(effects
 				(font
@@ -2975,7 +2975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 165.1 0)
 			(effects
 				(font
@@ -3109,7 +3109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 124.46 0)
 			(effects
 				(font
@@ -3177,7 +3177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 124.46 0)
 			(effects
 				(font
@@ -3315,7 +3315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 97.79 0)
 			(effects
 				(font
@@ -3401,7 +3401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:ResetSW"
 			(at 182.88 33.02 0)
 			(effects
 				(font
@@ -3469,7 +3469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 124.46 0)
 			(effects
 				(font
@@ -3537,7 +3537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 107.95 0)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Micon_BMP_7sKB"
 			(at 58.42 71.12 0)
 			(effects
 				(font
@@ -3811,7 +3811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 97.79 0)
 			(effects
 				(font
@@ -3963,7 +3963,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 165.1 0)
 			(effects
 				(font
@@ -4031,7 +4031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 124.46 0)
 			(effects
 				(font
@@ -4101,7 +4101,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 173.99 0)
 			(effects
 				(font
@@ -4189,7 +4189,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 116.84 0)
 			(effects
 				(font
@@ -4277,7 +4277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 116.84 0)
 			(effects
 				(font
@@ -4365,7 +4365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 133.35 0)
 			(effects
 				(font
@@ -4453,7 +4453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 154.94 0)
 			(effects
 				(font
@@ -4541,7 +4541,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 173.99 0)
 			(effects
 				(font
@@ -4629,7 +4629,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 133.35 0)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 146.05 0)
 			(effects
 				(font
@@ -4785,7 +4785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -4871,7 +4871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -4941,7 +4941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 116.84 0)
 			(effects
 				(font
@@ -5027,7 +5027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Battery_BMP_2pin"
 			(at 180.34 58.42 0)
 			(effects
 				(font
@@ -5097,7 +5097,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 173.99 0)
 			(effects
 				(font
@@ -5251,7 +5251,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 133.35 0)
 			(effects
 				(font
@@ -5405,7 +5405,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 154.94 0)
 			(effects
 				(font
@@ -5559,7 +5559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 154.94 0)
 			(effects
 				(font
@@ -5647,7 +5647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 133.35 0)
 			(effects
 				(font
@@ -5735,7 +5735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 154.94 0)
 			(effects
 				(font
@@ -5821,7 +5821,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 88.9 0)
 			(effects
 				(font
@@ -5889,7 +5889,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 88.9 0)
 			(effects
 				(font
@@ -5959,7 +5959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 154.94 0)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 165.1 0)
 			(effects
 				(font
@@ -6245,7 +6245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 88.9 0)
 			(effects
 				(font
@@ -6315,7 +6315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 97.79 0)
 			(effects
 				(font
@@ -6401,7 +6401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 107.95 0)
 			(effects
 				(font
@@ -6471,7 +6471,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 121.92 116.84 0)
 			(effects
 				(font
@@ -6557,7 +6557,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -6627,7 +6627,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 60.96 133.35 0)
 			(effects
 				(font
@@ -6713,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 55.88 146.05 0)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 124.46 0)
 			(effects
 				(font
@@ -6849,7 +6849,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 74.93 107.95 0)
 			(effects
 				(font
@@ -6917,7 +6917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 107.95 0)
 			(effects
 				(font
@@ -6987,7 +6987,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 154.94 0)
 			(effects
 				(font
@@ -7073,7 +7073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 107.95 0)
 			(effects
 				(font
@@ -7143,7 +7143,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 137.16 97.79 0)
 			(effects
 				(font
@@ -7231,7 +7231,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -7383,7 +7383,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 132.08 124.46 0)
 			(effects
 				(font
@@ -7453,7 +7453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 97.79 0)
 			(effects
 				(font
@@ -7539,7 +7539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 88.9 0)
 			(effects
 				(font
@@ -7607,7 +7607,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 148.59 146.05 0)
 			(effects
 				(font
@@ -7677,7 +7677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 99.06 116.84 0)
 			(effects
 				(font
@@ -7765,7 +7765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
 			(at 80.01 116.84 0)
 			(effects
 				(font
@@ -7851,7 +7851,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 93.98 146.05 0)
 			(effects
 				(font
@@ -7919,7 +7919,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
 			(at 116.84 88.9 0)
 			(effects
 				(font
