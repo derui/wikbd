@@ -1,0 +1,8 @@
+* Wikbd
+This is my first hand-crafted keyboard.
+
+
+* PCB Data
+This project uses kicad and PCB Data opened below.
+
+- https://github.com/Salicylic-acid3/PCB_Data
