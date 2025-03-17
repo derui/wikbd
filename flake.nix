@@ -9,7 +9,6 @@
     {
       self,
       nixpkgs,
-      fenix,
       ...
     }:
     let
@@ -51,7 +50,6 @@
             ];
 
             shellHook = ''
-              pre-commit install
             '';
           };
         }
