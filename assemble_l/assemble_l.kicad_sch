@@ -5027,7 +5027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Battery_BMP_2pin"
+		(property "Footprint" "kbd_Parts:Battery_2pin"
 			(at 180.34 58.42 0)
 			(effects
 				(font
