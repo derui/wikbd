@@ -18388,9 +18388,9 @@
 	(footprint "kbd_Parts:ResetSW"
 		(layer "F.Cu")
 		(uuid "80db671d-8804-486d-9eac-fe7f7ade98ef")
-		(at 118.5 47)
+		(at 87 105 90)
 		(property "Reference" "SW56"
-			(at 0 2.55 0)
+			(at 0 2.55 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e203e325-abd5-4d25-a1f1-a3088fff79dc")
@@ -18402,7 +18402,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 -2.55 0)
+			(at 0 -2.55 90)
 			(layer "F.Fab")
 			(uuid "27827b7d-7900-4881-8795-70a61493838f")
 			(effects
@@ -18413,7 +18413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "182f5e1e-2646-454b-bf18-5d0b3fad016a")
@@ -18425,7 +18425,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a9e60c9-7b7c-448a-b35c-db0d838e1061")
@@ -18440,6 +18440,16 @@
 		(sheetname "/")
 		(sheetfile "assemble_r.kicad_sch")
 		(attr through_hole)
+		(fp_line
+			(start 3 -1.75)
+			(end 3 -1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "e4c44ed6-778e-48f9-85f7-f94939f1821b")
+		)
 		(fp_line
 			(start -3 -1.75)
 			(end 3 -1.75)
@@ -18461,26 +18471,6 @@
 			(uuid "db28b8b0-a026-400d-bad4-1daf397cada4")
 		)
 		(fp_line
-			(start -3 1.75)
-			(end -3 1.5)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "f8ad1a2c-b1dc-41a5-b56d-0fd8e08e7d90")
-		)
-		(fp_line
-			(start 3 -1.75)
-			(end 3 -1.5)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "e4c44ed6-778e-48f9-85f7-f94939f1821b")
-		)
-		(fp_line
 			(start 3 1.5)
 			(end 3 1.75)
 			(stroke
@@ -18500,8 +18490,18 @@
 			(layer "B.SilkS")
 			(uuid "41a82cdb-2df4-4aea-a318-d2b98809d6aa")
 		)
+		(fp_line
+			(start -3 1.75)
+			(end -3 1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f8ad1a2c-b1dc-41a5-b56d-0fd8e08e7d90")
+		)
 		(fp_text user "RESET"
-			(at 0.127 0 0)
+			(at 0.127 0 90)
 			(layer "B.SilkS")
 			(uuid "3f8f8183-223a-4332-b97e-3d84bd45a323")
 			(effects
@@ -18513,7 +18513,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 3.25 0)
+			(at 3.25 0 90)
 			(size 2 2)
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
@@ -18524,7 +18524,7 @@
 			(uuid "14337305-084b-4c8d-95d5-467bf2599bb2")
 		)
 		(pad "2" thru_hole circle
-			(at -3.25 0)
+			(at -3.25 0 90)
 			(size 2 2)
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
@@ -32978,7 +32978,7 @@
 			(uuid "7d9cb5c9-6103-4361-a5e3-9fa1b191f9bc")
 		)
 		(fp_line
-			(start -3.399998 6.199999)
+			(start -3.399997 6.199999)
 			(end -3.4 1.38)
 			(stroke
 				(width 0.15)
@@ -33279,7 +33279,7 @@
 		)
 		(fp_line
 			(start 0.35 8.2)
-			(end 0.350001 3.600002)
+			(end 0.350001 3.600003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -33329,7 +33329,7 @@
 		)
 		(fp_line
 			(start 1.1 8.2)
-			(end 1.099999 3.6)
+			(end 1.099998 3.6)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -33378,7 +33378,7 @@
 			(uuid "04e1c043-07b1-4972-aa3b-21a7108f4b74")
 		)
 		(fp_line
-			(start 1.3 3.575002)
+			(start 1.3 3.575003)
 			(end -1.275 3.575)
 			(stroke
 				(width 0.15)
@@ -33449,7 +33449,7 @@
 		)
 		(fp_line
 			(start 2.299999 4.574999)
-			(end 1.3 3.575002)
+			(end 1.3 3.575003)
 			(stroke
 				(width 0.15)
 				(type solid)
