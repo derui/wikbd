@@ -2907,7 +2907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 132.08 146.05 0)
 			(effects
 				(font
@@ -2975,7 +2975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 116.84 165.1 0)
 			(effects
 				(font
@@ -3109,7 +3109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 148.59 124.46 0)
 			(effects
 				(font
@@ -3177,7 +3177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 93.98 124.46 0)
 			(effects
 				(font
@@ -3469,7 +3469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 116.84 124.46 0)
 			(effects
 				(font
@@ -3537,7 +3537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 116.84 107.95 0)
 			(effects
 				(font
@@ -3963,7 +3963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 148.59 165.1 0)
 			(effects
 				(font
@@ -4031,7 +4031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 55.88 124.46 0)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 74.93 146.05 0)
 			(effects
 				(font
@@ -4871,7 +4871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -5821,7 +5821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 74.93 88.9 0)
 			(effects
 				(font
@@ -5889,7 +5889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 132.08 88.9 0)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 132.08 165.1 0)
 			(effects
 				(font
@@ -6245,7 +6245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 93.98 88.9 0)
 			(effects
 				(font
@@ -6401,7 +6401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 148.59 107.95 0)
 			(effects
 				(font
@@ -6557,7 +6557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -6713,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 55.88 146.05 0)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 74.93 124.46 0)
 			(effects
 				(font
@@ -6849,7 +6849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 74.93 107.95 0)
 			(effects
 				(font
@@ -6917,7 +6917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 93.98 107.95 0)
 			(effects
 				(font
@@ -7073,7 +7073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 132.08 107.95 0)
 			(effects
 				(font
@@ -7383,7 +7383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 132.08 124.46 0)
 			(effects
 				(font
@@ -7539,7 +7539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 148.59 88.9 0)
 			(effects
 				(font
@@ -7607,7 +7607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 148.59 146.05 0)
 			(effects
 				(font
@@ -7851,7 +7851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 93.98 146.05 0)
 			(effects
 				(font
@@ -7919,7 +7919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u"
+		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 			(at 116.84 88.9 0)
 			(effects
 				(font

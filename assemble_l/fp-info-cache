@@ -1,4 +1,4 @@
-264772091242648
+271848566069969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100184,6 +100184,13 @@ Choc_v2_Hotswap_1u
 2
 2
 kbd_SW
+Choc_v2_Hotswap_1u_16.5
+
+
+0
+2
+2
+kbd_SW
 Choc_v2_Hotswap_2u
 
 
@@ -100234,6 +100241,13 @@ SW_Hole_1.75u
 0
 kbd_SW_Hole
 SW_Hole_1u
+
+
+0
+0
+0
+kbd_SW_Hole
+SW_Hole_1u_16.5
 
 
 0
@@ -100367,6 +100381,13 @@ SW_Hole_TH_1.75u
 1
 kbd_SW_Hole
 SW_Hole_TH_1u
+
+
+0
+4
+1
+kbd_SW_Hole
+SW_Hole_TH_1u_16.5
 
 
 0
