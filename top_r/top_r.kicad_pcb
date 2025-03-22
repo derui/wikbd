@@ -749,7 +749,7 @@
 	(footprint "kbd_Hole:m2_Spacer_Hole_hex"
 		(layer "F.Cu")
 		(uuid "23686358-a863-4e4d-9d45-bd130fc52345")
-		(at 98.5 126.5)
+		(at 101 124)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -2497,7 +2497,7 @@
 	(footprint "kbd_Hole:m2_Spacer_Hole_hex"
 		(layer "F.Cu")
 		(uuid "aa71bf3f-5dfc-4046-91d3-dff3eb78aefd")
-		(at 171 125)
+		(at 169.5 121)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
