@@ -1360,10 +1360,10 @@
 		(uuid "09bb57cb-3f0e-4f50-a64f-7954c8926923")
 	)
 	(junction
-		(at 99.06 162.56)
+		(at 137.16 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "43f71b9e-e2da-4f2c-a7a8-50ed07fc1a30")
+		(uuid "2fe724cc-faa5-439a-b8e2-288c6c9347e4")
 	)
 	(junction
 		(at 60.96 137.16)
@@ -1376,12 +1376,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ae2fc0a-81b0-4379-9e93-92a3b344333d")
-	)
-	(junction
-		(at 110.49 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ae5935c-3686-42d4-82dc-05fafb501047")
 	)
 	(junction
 		(at 137.16 120.65)
@@ -1406,12 +1400,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b024da3-1b29-42a1-8f68-572d8ed5d0d3")
-	)
-	(junction
-		(at 120.65 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6eba111d-f7c7-4fc9-b4fb-2599af41f14c")
 	)
 	(junction
 		(at 127 113.03)
@@ -1498,10 +1486,22 @@
 		(uuid "ba76829f-9116-449b-a736-75f3ae5e54c7")
 	)
 	(junction
+		(at 143.51 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb4f7f8d-5a03-4e1c-b3a8-fbdc8ea79711")
+	)
+	(junction
 		(at 120.65 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf620c45-71c4-4109-832a-899cd3fdc3bb")
+	)
+	(junction
+		(at 120.65 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c58b5a79-c742-4902-adc1-285a60063781")
 	)
 	(junction
 		(at 50.8 113.03)
@@ -1729,6 +1729,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 137.16) (xy 137.16 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d79b61-5146-4b12-bbde-546755818a17")
+	)
+	(wire
+		(pts
 			(xy 34.29 162.56) (xy 60.96 162.56)
 		)
 		(stroke
@@ -1736,16 +1746,6 @@
 			(type default)
 		)
 		(uuid "4962183e-5d46-4cf0-a057-820097668bbe")
-	)
-	(wire
-		(pts
-			(xy 110.49 129.54) (xy 110.49 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58561245-800a-4bf7-9bc1-6d6a60af957a")
 	)
 	(wire
 		(pts
@@ -1786,6 +1786,16 @@
 			(type default)
 		)
 		(uuid "694a6e0c-3e7b-4d2d-92d8-ebeb1f037cce")
+	)
+	(wire
+		(pts
+			(xy 137.16 137.16) (xy 153.67 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73be6468-81f8-44db-a99e-629c15fcd350")
 	)
 	(wire
 		(pts
@@ -1906,16 +1916,6 @@
 			(type default)
 		)
 		(uuid "a4a6c7c8-5a8e-49e0-9e86-94712287789c")
-	)
-	(wire
-		(pts
-			(xy 99.06 162.56) (xy 120.65 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a917f813-8697-4ae7-80a6-310459c796d8")
 	)
 	(wire
 		(pts
@@ -2069,16 +2069,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 137.16) (xy 137.16 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5438c5a-2a36-422c-be3f-253b66aaa8d9")
-	)
-	(wire
-		(pts
 			(xy 69.85 93.98) (xy 69.85 113.03)
 		)
 		(stroke
@@ -2126,6 +2116,16 @@
 			(type default)
 		)
 		(uuid "f30312b0-17fa-4393-a8f4-9ce609c6ee08")
+	)
+	(wire
+		(pts
+			(xy 143.51 113.03) (xy 143.51 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5a03546-3d9e-42dc-9746-88eecc9d17bf")
 	)
 	(global_label "Bat+"
 		(shape input)
@@ -2791,16 +2791,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 115.57 154.94 0)
+		(at 148.59 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "061c1cea-94dc-4f46-ac96-ff220e0bca48")
 		(property "Reference" "SW38"
-			(at 115.57 147.32 0)
+			(at 148.59 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2808,7 +2807,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 115.57 149.86 0)
+			(at 148.59 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +2815,7 @@
 			)
 		)
 		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 115.57 149.86 0)
+			(at 148.59 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 149.86 0)
+			(at 148.59 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2834,7 +2833,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 115.57 154.94 0)
+			(at 148.59 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6178,7 +6177,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 120.65 158.75 90)
+		(at 153.67 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6187,7 +6186,7 @@
 		(fields_autoplaced yes)
 		(uuid "d6d56c62-4c06-42b5-a8ab-173252af9258")
 		(property "Reference" "D38"
-			(at 123.19 157.4799 90)
+			(at 156.21 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6196,7 +6195,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 123.19 160.0199 90)
+			(at 156.21 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6205,7 +6204,7 @@
 			)
 		)
 		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 120.65 158.75 0)
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6214,7 +6213,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 158.75 0)
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6223,7 +6222,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 120.65 158.75 0)
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6232,7 +6231,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 120.65 158.75 0)
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +6240,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 120.65 158.75 0)
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
