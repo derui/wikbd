@@ -126,7 +126,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "064fe403-0c04-46c6-893f-2cf0b62eb20e")
-		(at 130.4 102.85 -90)
+		(at 133.5 107.5 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D37"
@@ -5496,7 +5496,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "38a2ec59-8d94-45a8-8744-150b8e1297f6")
-		(at 134.9 114.35 -90)
+		(at 136 108 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D40"
@@ -10383,7 +10383,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "79b83bec-15d1-4f07-9d0f-e1577f7dc1b0")
-		(at 138.9 74.85 -90)
+		(at 135.5 75.5 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D38"
@@ -16605,7 +16605,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "b162ab9c-00a9-42dd-a3a9-7f2c1203168f")
-		(at 128.9 87.35 -90)
+		(at 133.5 90.5 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D36"
@@ -27512,7 +27512,7 @@
 			(uuid "89681208-6c75-4284-90dd-c20072bfcd78")
 		)
 		(fp_line
-			(start -4.6 6.000004)
+			(start -4.6 6.000005)
 			(end -4.6 1.4)
 			(stroke
 				(width 0.15)
@@ -27853,7 +27853,7 @@
 		)
 		(fp_line
 			(start -0.4 8.2)
-			(end -0.399996 3.6)
+			(end -0.399995 3.6)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -28299,7 +28299,7 @@
 			(uuid "d4216d73-8633-4366-9331-2ef5fe349710")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000004 -5.55 2.5)
+			(at 5.000005 -5.55 2.5)
 			(size 1 1)
 			(drill oval 1)
 			(layers "*.Cu" "*.Mask")
@@ -28472,16 +28472,6 @@
 		(layer "Edge.Cuts")
 		(uuid "84a1a03f-274a-4622-bc97-7d3495dcea62")
 	)
-	(gr_line
-		(start 43.965651 61.1375)
-		(end 43.965651 61.1375)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "88dfb5e5-c62b-4dbf-9211-53d0466ba802")
-	)
 	(gr_arc
 		(start 44.025412 121.610664)
 		(mid 43.990032 121.46065)
@@ -28554,16 +28544,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "cac5da83-b261-40c2-9f18-b386f2d197b0")
-	)
-	(gr_line
-		(start 43.965651 61.1375)
-		(end 43.965651 61.1375)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "dae0e9f7-09f0-46d5-aa6a-8c134622fd63")
 	)
 	(embedded_fonts no)
 )
