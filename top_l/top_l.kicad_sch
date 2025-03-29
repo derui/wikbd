@@ -1354,22 +1354,10 @@
 		(uuid "044ae289-66ce-4e98-b346-a72692839e3a")
 	)
 	(junction
-		(at 137.16 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "086d466e-efbf-44cc-a483-9522946d0977")
-	)
-	(junction
 		(at 21.59 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09bb57cb-3f0e-4f50-a64f-7954c8926923")
-	)
-	(junction
-		(at 60.96 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0ec0baed-75e6-4919-aee4-a7ba8d431e26")
 	)
 	(junction
 		(at 121.92 101.6)
@@ -1381,7 +1369,7 @@
 		(at 60.96 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4a001abb-aec6-4e56-80b2-3ec38beb29e1")
+		(uuid "36a0190b-b149-495f-921e-d6e97cfe9088")
 	)
 	(junction
 		(at 21.59 33.02)
@@ -1402,7 +1390,7 @@
 		(uuid "651ae430-bb8c-40d8-aaf3-36303c835289")
 	)
 	(junction
-		(at 121.92 177.8)
+		(at 121.92 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "665bd53c-e289-40a4-bf54-4c5e499ee89f")
@@ -1456,18 +1444,6 @@
 		(uuid "871364b2-4703-4fcc-aabd-c53bd677b679")
 	)
 	(junction
-		(at 69.85 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "87489931-1c5f-4e87-b920-5d4276bc2fc2")
-	)
-	(junction
-		(at 127 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "89f16206-d127-408b-88e4-bc15bc7052c8")
-	)
-	(junction
 		(at 60.96 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1486,22 +1462,10 @@
 		(uuid "93fcfc1b-b507-4533-b22c-fcc20c9e3307")
 	)
 	(junction
-		(at 50.8 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95bf0acd-bf4e-4735-8569-b42dc8ed6b8c")
-	)
-	(junction
 		(at 50.8 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95c3a63e-40da-4453-9f87-f7e1dc5242db")
-	)
-	(junction
-		(at 80.01 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "991dbb4b-c875-4139-a888-b15ae2293140")
 	)
 	(junction
 		(at 111.76 129.54)
@@ -1516,46 +1480,22 @@
 		(uuid "a199e419-661a-49d1-b125-e07478cf1f92")
 	)
 	(junction
-		(at 88.9 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a3e2ae35-1eec-48b7-8df5-e9361445d443")
-	)
-	(junction
 		(at 121.92 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5275c56-3b02-421d-ba05-4840601930d9")
 	)
 	(junction
-		(at 143.51 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ad5a1996-ab0b-4537-8cb1-f29968b9e0c7")
-	)
-	(junction
-		(at 99.06 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b79a3cb3-e671-4685-87c7-3d1c256144d7")
-	)
-	(junction
-		(at 137.16 177.8)
+		(at 137.16 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba76829f-9116-449b-a736-75f3ae5e54c7")
 	)
 	(junction
-		(at 121.92 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3f1a076-5864-48ee-b7cd-eebfb6714337")
-	)
-	(junction
 		(at 50.8 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c5edd93a-b016-4723-9758-ec8319538f5c")
+		(uuid "d0da7d8a-2e02-450f-8a89-57f494788140")
 	)
 	(junction
 		(at 80.01 137.16)
@@ -1580,12 +1520,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d731b21c-1874-4c2d-ba8a-ced01d14c65d")
-	)
-	(junction
-		(at 111.76 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dabe0235-f8db-468a-a49e-ba00cbcf514b")
 	)
 	(junction
 		(at 127 129.54)
@@ -1649,6 +1583,10 @@
 		(at 38.1 25.4)
 		(uuid "eaca753c-cab5-4007-8239-d4b933c8a2f7")
 	)
+	(no_connect
+		(at 38.1 50.8)
+		(uuid "eb2faf55-0be0-49b6-8738-ac5a802e5297")
+	)
 	(wire
 		(pts
 			(xy 121.92 101.6) (xy 137.16 101.6)
@@ -1668,16 +1606,6 @@
 			(type default)
 		)
 		(uuid "0457052d-f394-4aff-9fd3-3b7678761625")
-	)
-	(wire
-		(pts
-			(xy 111.76 151.13) (xy 111.76 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "079cef50-cb40-4190-999f-b541fd376eb9")
 	)
 	(wire
 		(pts
@@ -1751,17 +1679,17 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 113.03) (xy 88.9 129.54)
+			(xy 50.8 113.03) (xy 50.8 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "321c69bf-da92-4819-a6e2-38d1db2effe5")
+		(uuid "32634f4e-6a29-4d25-8897-bc4d12c85038")
 	)
 	(wire
 		(pts
-			(xy 121.92 177.8) (xy 137.16 177.8)
+			(xy 121.92 158.75) (xy 137.16 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1801,16 +1729,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 158.75) (xy 99.06 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fa286d5-b7c7-4079-b7ce-37a2ff021d38")
-	)
-	(wire
-		(pts
 			(xy 187.96 38.1) (xy 187.96 41.91)
 		)
 		(stroke
@@ -1841,13 +1759,13 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 177.8) (xy 121.92 177.8)
+			(xy 34.29 158.75) (xy 121.92 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4962183e-5d46-4cf0-a057-820097668bbe")
+		(uuid "4afdfceb-e0ef-4597-890a-112096ea8dac")
 	)
 	(wire
 		(pts
@@ -1901,16 +1819,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 158.75) (xy 121.92 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "681a942a-071f-4551-9d4d-5048e61ea8c7")
-	)
-	(wire
-		(pts
 			(xy 80.01 101.6) (xy 99.06 101.6)
 		)
 		(stroke
@@ -1961,7 +1869,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 113.03) (xy 50.8 129.54)
+			(xy 88.9 113.03) (xy 88.9 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2011,16 +1919,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 129.54) (xy 88.9 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "968acafc-b651-4c9d-a56b-402f2db7525d")
-	)
-	(wire
-		(pts
 			(xy 111.76 129.54) (xy 111.76 151.13)
 		)
 		(stroke
@@ -2061,26 +1959,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 158.75) (xy 137.16 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a465ec9e-15ad-4809-bd0b-ff7b6ee922b1")
-	)
-	(wire
-		(pts
-			(xy 34.29 158.75) (xy 60.96 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5095f4b-1718-4269-956e-42dd6013276d")
-	)
-	(wire
-		(pts
 			(xy 99.06 101.6) (xy 121.92 101.6)
 		)
 		(stroke
@@ -2091,26 +1969,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 158.75) (xy 153.67 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acf9391c-6e0f-4ac7-bdaa-08f63298d2cd")
-	)
-	(wire
-		(pts
-			(xy 69.85 129.54) (xy 69.85 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b18b523b-6226-4546-9813-72a495f21ddc")
-	)
-	(wire
-		(pts
 			(xy 50.8 93.98) (xy 50.8 113.03)
 		)
 		(stroke
@@ -2118,26 +1976,6 @@
 			(type default)
 		)
 		(uuid "b40be3b4-ddfc-4bd9-96d3-7d1306a4978f")
-	)
-	(wire
-		(pts
-			(xy 60.96 158.75) (xy 80.01 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b590b10d-e188-4c35-9397-80a0d8135792")
-	)
-	(wire
-		(pts
-			(xy 127 151.13) (xy 127 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b75e6438-8086-4edd-bc4b-5c95b45a2e95")
 	)
 	(wire
 		(pts
@@ -2241,23 +2079,13 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 177.8) (xy 153.67 177.8)
+			(xy 137.16 158.75) (xy 153.67 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e663ac1d-15c1-465e-9c01-0a60d96b81a3")
-	)
-	(wire
-		(pts
-			(xy 143.51 151.13) (xy 143.51 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6ceea80-ffed-4f22-b1bf-ef9c6783de89")
 	)
 	(wire
 		(pts
@@ -2277,17 +2105,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "ee35a167-faad-4ae3-bced-10729def83f1")
-	)
-	(wire
-		(pts
-			(xy 50.8 129.54) (xy 50.8 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efeb420d-dea5-4997-b0e4-37bb0a176da7")
+		(uuid "f0d3a1e1-55ee-48ab-819a-328020983b27")
 	)
 	(wire
 		(pts
@@ -2432,28 +2250,6 @@
 		(uuid "3cd7fc4a-6fc1-4864-b123-908525b0af39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 26.3458 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Row4"
-		(shape input)
-		(at 38.1 50.8 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "464887c2-e8ba-4de9-a2f6-0d4a395ae543")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.1558 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2705,28 +2501,6 @@
 			)
 		)
 	)
-	(global_label "Row4"
-		(shape input)
-		(at 34.29 177.8 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cc43b885-e08c-4dc6-bbe1-32c27f5a122c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.3458 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Row0"
 		(shape input)
 		(at 34.29 101.6 180)
@@ -2883,75 +2657,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 132.08 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "019d815d-0527-4020-9727-4d1df15d8e93")
-		(property "Reference" "SW23"
-			(at 132.08 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 132.08 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a615bee0-45de-4d59-8489-71d72538c02f")
-		)
-		(pin "2"
-			(uuid "113e0355-4721-4c5c-8657-9803788dfb9d")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 116.84 170.18 0)
+		(at 116.84 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2959,8 +2665,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03ce2357-84c5-4ccd-b979-4ab776431b33")
-		(property "Reference" "SW25"
-			(at 116.84 162.56 0)
+		(property "Reference" "SW13"
+			(at 116.84 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,7 +2674,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 116.84 165.1 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2976,7 +2682,7 @@
 			)
 		)
 		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 116.84 165.1 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +2691,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 165.1 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2994,7 +2700,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 170.18 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,7 +2717,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW25")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -3027,7 +2733,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04d5d904-3eaa-4fd0-8704-1681f4bb065e")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR04"
 			(at 179.07 81.28 0)
 			(effects
 				(font
@@ -3077,7 +2783,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR01")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3093,7 +2799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "061c1cea-94dc-4f46-ac96-ff220e0bca48")
-		(property "Reference" "SW18"
+		(property "Reference" "SW20"
 			(at 148.59 121.92 0)
 			(effects
 				(font
@@ -3145,75 +2851,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 116.84 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b2311c1-5dcf-44c5-a4f3-45e2f90d72cc")
-		(property "Reference" "SW22"
-			(at 116.84 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 116.84 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 116.84 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "51571012-0145-43ef-b858-26edaaa50995")
-		)
-		(pin "2"
-			(uuid "cfd53537-facb-4dec-9ea8-9bf92f787e52")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW22")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -3229,7 +2867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d70757f-d815-4b06-b585-137aef3fa8b8")
-		(property "Reference" "SW15"
+		(property "Reference" "SW9"
 			(at 93.98 121.92 0)
 			(effects
 				(font
@@ -3281,7 +2919,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW15")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -3297,7 +2935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11deb626-45c1-41e7-8324-78658a014549")
-		(property "Reference" "D6"
+		(property "Reference" "D18"
 			(at 156.21 96.5199 90)
 			(effects
 				(font
@@ -3369,7 +3007,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D6")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -3385,7 +3023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "127c32f6-d5f9-4552-b5de-b69e20ce1a5d")
-		(property "Reference" "SW28"
+		(property "Reference" "SW22"
 			(at 182.88 30.48 0)
 			(effects
 				(font
@@ -3437,7 +3075,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW28")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -3453,7 +3091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cd09392-00d1-49a1-a901-090eb58e2260")
-		(property "Reference" "SW16"
+		(property "Reference" "SW12"
 			(at 116.84 121.92 0)
 			(effects
 				(font
@@ -3505,7 +3143,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW16")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -3521,7 +3159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fe9805b-bda0-49c6-9d3d-dc27ae4bc416")
-		(property "Reference" "SW10"
+		(property "Reference" "SW11"
 			(at 116.84 105.41 0)
 			(effects
 				(font
@@ -3573,7 +3211,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW10")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -3587,7 +3225,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ff99b74-c3cf-469b-ba42-b925fc50adac")
 		(property "Reference" "U1"
 			(at 55.88 15.24 0)
@@ -3606,7 +3243,7 @@
 			)
 		)
 		(property "Footprint" "kbd_Parts:Micon_BMP_7sKB"
-			(at 58.42 71.12 0)
+			(at 55.88 57.404 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3727,7 +3364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28b5c427-e4a1-4e8d-a2f1-cfaad08e2cd7")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR02"
 			(at 85.09 25.4 0)
 			(effects
 				(font
@@ -3777,7 +3414,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR05")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3793,7 +3430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28b70c83-3365-4f67-aeb0-0252b0eb7e61")
-		(property "Reference" "D4"
+		(property "Reference" "D10"
 			(at 124.46 96.5199 90)
 			(effects
 				(font
@@ -3865,7 +3502,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D4")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -3881,7 +3518,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2af5a890-67e1-4ead-9cda-fd1050e44f41")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR06"
 			(at 190.5 83.82 0)
 			(effects
 				(font
@@ -3931,7 +3568,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR02")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3939,7 +3576,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 148.59 170.18 0)
+		(at 148.59 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3947,8 +3584,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e30a4bd-bad2-4697-adc3-e6e007e01d64")
-		(property "Reference" "SW27"
-			(at 148.59 162.56 0)
+		(property "Reference" "SW21"
+			(at 148.59 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,7 +3593,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 148.59 165.1 0)
+			(at 148.59 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,7 +3601,7 @@
 			)
 		)
 		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 148.59 165.1 0)
+			(at 148.59 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +3610,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 165.1 0)
+			(at 148.59 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3619,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 148.59 170.18 0)
+			(at 148.59 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +3636,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW27")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -4015,7 +3652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "319bd7f8-6c26-4cb2-a146-7bad254f95a3")
-		(property "Reference" "SW13"
+		(property "Reference" "SW3"
 			(at 55.88 121.92 0)
 			(effects
 				(font
@@ -4067,7 +3704,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW13")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -4075,7 +3712,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 137.16 173.99 90)
+		(at 137.16 154.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4083,8 +3720,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fadcdba-073f-4190-9026-71e9cdce6269")
-		(property "Reference" "D26"
-			(at 139.7 172.7199 90)
+		(property "Reference" "D17"
+			(at 139.7 153.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4093,7 +3730,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 139.7 175.2599 90)
+			(at 139.7 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4102,7 +3739,7 @@
 			)
 		)
 		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 137.16 173.99 0)
+			(at 137.16 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4111,7 +3748,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 173.99 0)
+			(at 137.16 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +3757,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 137.16 173.99 0)
+			(at 137.16 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +3766,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 137.16 173.99 0)
+			(at 137.16 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +3775,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 173.99 0)
+			(at 137.16 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +3792,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D26")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -4171,7 +3808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4120f783-7de6-4d54-a1d1-9c73a1df1fe5")
-		(property "Reference" "D12"
+		(property "Reference" "D19"
 			(at 156.21 115.5699 90)
 			(effects
 				(font
@@ -4243,7 +3880,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D12")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -4259,7 +3896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cca5c61-265b-4727-afa4-c3cd4a6df949")
-		(property "Reference" "D7"
+		(property "Reference" "D2"
 			(at 63.5 115.5699 90)
 			(effects
 				(font
@@ -4331,7 +3968,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D7")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4347,7 +3984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e4d1a2b-d6f8-401c-af6d-225d88e369f6")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 139.7 132.0799 90)
 			(effects
 				(font
@@ -4419,7 +4056,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -4427,95 +4064,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 137.16 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "525baf75-b96b-4f5d-a12c-f7a53ec66297")
-		(property "Reference" "D23"
-			(at 139.7 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 139.7 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 137.16 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 137.16 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 137.16 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d70c4be6-2215-4dc7-8c74-3b9a15b35497")
-		)
-		(pin "1"
-			(uuid "4afbbe3a-ef8b-4156-abee-304f03e9d90a")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 121.92 173.99 90)
+		(at 121.92 154.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4523,8 +4072,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57538445-a411-4585-a511-171b2597290a")
-		(property "Reference" "D25"
-			(at 124.46 172.7199 90)
+		(property "Reference" "D13"
+			(at 124.46 153.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +4082,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 124.46 175.2599 90)
+			(at 124.46 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,7 +4091,7 @@
 			)
 		)
 		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 121.92 173.99 0)
+			(at 121.92 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4551,7 +4100,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 173.99 0)
+			(at 121.92 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4560,7 +4109,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 173.99 0)
+			(at 121.92 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4569,7 +4118,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 173.99 0)
+			(at 121.92 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,7 +4127,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 173.99 0)
+			(at 121.92 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4595,7 +4144,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D25")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4611,7 +4160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5777342a-4fef-4922-9b89-c67444f750b5")
-		(property "Reference" "D15"
+		(property "Reference" "D9"
 			(at 101.6 132.0799 90)
 			(effects
 				(font
@@ -4683,75 +4232,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 74.93 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "65d3dd78-3b71-4f42-8bbf-3a248f8da998")
-		(property "Reference" "SW20"
-			(at 74.93 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 74.93 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 74.93 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 74.93 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1946ae97-40e1-471a-ad91-84bfa9181930")
-		)
-		(pin "2"
-			(uuid "69eb6127-6bb6-4941-9eab-7d07443e0edf")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW20")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -4767,7 +4248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c2eec20-a4dc-4117-a347-6a19253aa086")
-		(property "Reference" "D3"
+		(property "Reference" "D7"
 			(at 101.6 96.5199 90)
 			(effects
 				(font
@@ -4839,7 +4320,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D3")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4923,7 +4404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72768bc0-1139-46fd-90ac-6d6478624791")
-		(property "Reference" "D11"
+		(property "Reference" "D15"
 			(at 139.7 115.5699 90)
 			(effects
 				(font
@@ -4995,7 +4476,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D11")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -5071,7 +4552,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 153.67 173.99 90)
+		(at 153.67 154.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5079,8 +4560,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "749d2d52-a727-4aff-b5f5-c0f43e156894")
-		(property "Reference" "D27"
-			(at 156.21 172.7199 90)
+		(property "Reference" "D21"
+			(at 156.21 153.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5089,7 +4570,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 156.21 175.2599 90)
+			(at 156.21 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5098,7 +4579,7 @@
 			)
 		)
 		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 153.67 173.99 0)
+			(at 153.67 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5107,7 +4588,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 173.99 0)
+			(at 153.67 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5116,7 +4597,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 153.67 173.99 0)
+			(at 153.67 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5125,7 +4606,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 153.67 173.99 0)
+			(at 153.67 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5134,7 +4615,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 153.67 173.99 0)
+			(at 153.67 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,7 +4632,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D27")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -5167,7 +4648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "763de567-1419-4d16-a359-2ce484af8af6")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 201.93 67.31 0)
 			(effects
 				(font
@@ -5217,7 +4698,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5233,7 +4714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76ea68d5-07e0-4a06-a3ad-6730eff3b85b")
-		(property "Reference" "D14"
+		(property "Reference" "D6"
 			(at 82.55 132.0799 90)
 			(effects
 				(font
@@ -5305,7 +4786,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D14")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -5321,7 +4802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "770e63a3-7531-4e5f-8247-8d10919f0d38")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 92.71 36.83 0)
 			(effects
 				(font
@@ -5371,95 +4852,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 153.67 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7af89b16-2e19-4fcd-b37b-2e6436d3e70d")
-		(property "Reference" "D24"
-			(at 156.21 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 156.21 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 153.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 153.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 153.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 153.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e54c3782-0def-4351-9863-5dcb12aae160")
-		)
-		(pin "1"
-			(uuid "2b7667ef-8429-4504-a502-caece7eef66d")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D24")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -5475,7 +4868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e111979-0c03-45db-b7f0-66774ad43050")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR05"
 			(at 187.96 48.26 0)
 			(effects
 				(font
@@ -5525,95 +4918,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 80.01 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80bcfd6d-b405-4654-a166-ed4b32b76809")
-		(property "Reference" "D20"
-			(at 82.55 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 82.55 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 80.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 80.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 80.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 80.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c0048bed-783a-4c51-a419-53ae30164866")
-		)
-		(pin "1"
-			(uuid "bf0ad213-5eed-414d-9de2-9e800cbee3a7")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D20")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5629,7 +4934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "863d3b78-7f78-4137-98d8-5ec93338bb16")
-		(property "Reference" "D16"
+		(property "Reference" "D12"
 			(at 124.46 132.0799 90)
 			(effects
 				(font
@@ -5701,95 +5006,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 121.92 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87ac38fc-1357-484a-993a-f11c2f82f843")
-		(property "Reference" "D22"
-			(at 124.46 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 124.46 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "71f61c55-c0ef-4abf-9f44-caebb3eec846")
-		)
-		(pin "1"
-			(uuid "b2b1b67c-b2f0-4315-9de8-c43b5967c29d")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D22")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -5805,7 +5022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87ebe755-a4ec-4e2e-9e68-8d3dd44520a3")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 74.93 86.36 0)
 			(effects
 				(font
@@ -5857,7 +5074,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -5873,7 +5090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95270eec-855f-48f5-9553-ee97d4aa922c")
-		(property "Reference" "SW5"
+		(property "Reference" "SW14"
 			(at 132.08 86.36 0)
 			(effects
 				(font
@@ -5925,95 +5142,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 60.96 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99587e42-a3fc-4fba-b496-4085af07482d")
-		(property "Reference" "D19"
-			(at 63.5 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 63.5 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 60.96 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 60.96 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.96 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "99cdb4b4-c125-475b-9187-c2b8d8fbdb48")
-		)
-		(pin "1"
-			(uuid "f3fde481-9682-4034-91bc-5c246cc9a6b9")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D19")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -6087,7 +5216,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 132.08 170.18 0)
+		(at 132.08 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6095,8 +5224,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e72b5fb-37a2-457d-94c0-5f3ffeaff9f5")
-		(property "Reference" "SW26"
-			(at 132.08 162.56 0)
+		(property "Reference" "SW17"
+			(at 132.08 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6104,7 +5233,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 132.08 165.1 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6112,7 +5241,7 @@
 			)
 		)
 		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 132.08 165.1 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6121,7 +5250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 165.1 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,7 +5259,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 132.08 170.18 0)
+			(at 132.08 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,7 +5276,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW26")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -6163,7 +5292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fefcc7f-c950-4711-abd0-5be9284ac00e")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 21.59 41.91 0)
 			(effects
 				(font
@@ -6213,7 +5342,7 @@
 		(instances
 			(project ""
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "#PWR03")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -6229,7 +5358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a063da68-47ce-454b-9203-9ff672a9c1a1")
-		(property "Reference" "SW3"
+		(property "Reference" "SW7"
 			(at 93.98 86.36 0)
 			(effects
 				(font
@@ -6281,7 +5410,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW3")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -6385,7 +5514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a724a83d-7196-4ea2-ab4e-8b37663a258b")
-		(property "Reference" "SW12"
+		(property "Reference" "SW19"
 			(at 148.59 105.41 0)
 			(effects
 				(font
@@ -6437,7 +5566,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW12")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -6453,7 +5582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3eb9b75-6d1d-435d-804a-f5fd0a2f19aa")
-		(property "Reference" "D10"
+		(property "Reference" "D11"
 			(at 124.46 115.5699 90)
 			(effects
 				(font
@@ -6525,7 +5654,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D10")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -6541,7 +5670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b69fec5a-fc8d-4ff1-8206-daecdfe47d56")
-		(property "Reference" "SW7"
+		(property "Reference" "SW2"
 			(at 55.88 105.41 0)
 			(effects
 				(font
@@ -6593,7 +5722,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW7")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -6609,7 +5738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc4c6345-8cc4-43b2-9e31-bb67527e0f59")
-		(property "Reference" "D13"
+		(property "Reference" "D3"
 			(at 63.5 132.0799 90)
 			(effects
 				(font
@@ -6681,75 +5810,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 55.88 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf59ced2-1c59-47dd-a1e0-ca4c72b74dd4")
-		(property "Reference" "SW19"
-			(at 55.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 55.88 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 55.88 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 55.88 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 55.88 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d3019179-643c-475f-90f3-fa495c98f78b")
-		)
-		(pin "2"
-			(uuid "c996bcf6-fc07-453a-9e21-10fc8ca752a1")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW19")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -6765,7 +5826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf8e679e-64d2-44ff-b37e-d500b329840f")
-		(property "Reference" "SW14"
+		(property "Reference" "SW6"
 			(at 74.93 121.92 0)
 			(effects
 				(font
@@ -6817,7 +5878,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW14")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -6833,7 +5894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c39b9a2b-2d58-4a9e-ba12-c6ee8a8310f1")
-		(property "Reference" "SW8"
+		(property "Reference" "SW5"
 			(at 74.93 105.41 0)
 			(effects
 				(font
@@ -6885,7 +5946,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW8")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -6901,7 +5962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c956aa8e-cf60-4873-8d8e-49a99ea88ad0")
-		(property "Reference" "SW9"
+		(property "Reference" "SW8"
 			(at 93.98 105.41 0)
 			(effects
 				(font
@@ -6953,95 +6014,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 99.06 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca4dbf00-8bb5-4461-a780-85f6380d6abf")
-		(property "Reference" "D21"
-			(at 101.6 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 101.6 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "de08e4b1-67b1-428d-8dca-586e1264c8b5")
-		)
-		(pin "1"
-			(uuid "88e43743-df8a-43bf-b666-be9e2121fb45")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D21")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -7057,7 +6030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cec46eae-b049-44a4-b550-9adc8553fc6a")
-		(property "Reference" "SW11"
+		(property "Reference" "SW15"
 			(at 132.08 105.41 0)
 			(effects
 				(font
@@ -7109,7 +6082,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW11")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -7125,7 +6098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d567876b-99d6-4567-a73b-6c5af6b72e81")
-		(property "Reference" "D5"
+		(property "Reference" "D14"
 			(at 139.7 96.5199 90)
 			(effects
 				(font
@@ -7197,7 +6170,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D5")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -7213,7 +6186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6d56c62-4c06-42b5-a8ab-173252af9258")
-		(property "Reference" "D18"
+		(property "Reference" "D20"
 			(at 156.21 132.0799 90)
 			(effects
 				(font
@@ -7285,7 +6258,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D18")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -7367,7 +6340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7e07190-33a3-45a9-a98e-e9ff76d76351")
-		(property "Reference" "SW17"
+		(property "Reference" "SW16"
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -7419,7 +6392,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW17")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -7435,7 +6408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d925936a-aa96-4ff7-ad64-73a558eb75e8")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 82.55 96.5199 90)
 			(effects
 				(font
@@ -7507,7 +6480,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -7523,7 +6496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbcc2eec-5101-49fd-957b-80d0c9569067")
-		(property "Reference" "SW6"
+		(property "Reference" "SW18"
 			(at 148.59 86.36 0)
 			(effects
 				(font
@@ -7575,75 +6548,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 148.59 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0c3a195-ec4c-4a1e-a524-f719157ad90f")
-		(property "Reference" "SW24"
-			(at 148.59 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 148.59 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 148.59 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 148.59 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac4c6a47-5055-407b-bc53-1828b8407272")
-		)
-		(pin "2"
-			(uuid "40239e3e-027b-4351-916e-2702458ad56e")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW24")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -7659,7 +6564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e35aaa3c-59b3-4796-8c7d-3488b76bf815")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 101.6 115.5699 90)
 			(effects
 				(font
@@ -7731,7 +6636,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -7747,7 +6652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea200c88-0311-4fc7-a354-6ad5e577c737")
-		(property "Reference" "D8"
+		(property "Reference" "D5"
 			(at 82.55 115.5699 90)
 			(effects
 				(font
@@ -7819,75 +6724,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 93.98 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1b96300-e43d-44e3-bc4f-3c973dcde4fa")
-		(property "Reference" "SW21"
-			(at 93.98 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 93.98 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW:Choc_v2_Hotswap_1u_16.5"
-			(at 93.98 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 93.98 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef698ee0-77b8-4719-bd97-0c232792dae1")
-		)
-		(pin "2"
-			(uuid "8fe47619-d29e-428a-88fd-42fd69648efd")
-		)
-		(instances
-			(project "wikbd_assemble_l"
-				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW21")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -7903,7 +6740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7c4a235-bfbf-436f-9279-5f92b968e4e7")
-		(property "Reference" "SW4"
+		(property "Reference" "SW10"
 			(at 116.84 86.36 0)
 			(effects
 				(font
@@ -7955,7 +6792,7 @@
 		(instances
 			(project "wikbd_assemble_l"
 				(path "/d117cd26-8e7e-4c35-b450-26176f9e2abc"
-					(reference "SW4")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
