@@ -126,7 +126,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "064fe403-0c04-46c6-893f-2cf0b62eb20e")
-		(at 124.5 74.5 -90)
+		(at 130.4 102.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D37"
@@ -344,7 +344,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "06782e59-65ed-453b-bc18-d5a345a34562")
-		(at 57.95969 107.229467 15)
+		(at 63.85969 135.579467 15)
 		(property "Reference" "SW26"
 			(at -5.08 -6.35 15)
 			(layer "F.SilkS")
@@ -1414,7 +1414,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "08a4317e-0d3a-46e6-9af0-9c50b92f1725")
-		(at 137 83.95)
+		(at 142.9 112.3)
 		(property "Reference" "SW40"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -2484,7 +2484,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "11f32b13-1eab-4201-86fc-51753ea61eaa")
-		(at 85 96 -87.5)
+		(at 90.9 124.35 -87.5)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D34"
@@ -2702,7 +2702,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "12d93d6b-5e93-4d47-81c5-a4e7bc651b8c")
-		(at 96 68.5 -90)
+		(at 101.9 96.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D33"
@@ -2920,7 +2920,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "19bd728b-5f66-42fa-ba59-416acfff7c95")
-		(at 96 52.5 -90)
+		(at 101.9 80.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D32"
@@ -3138,7 +3138,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "1df75aeb-64b7-4e88-8f86-32cd439fe495")
-		(at 49.5 104.5 -75)
+		(at 55.4 132.85 -75)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D26"
@@ -3356,7 +3356,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "223d5ccc-0183-4bd9-a7d4-c0a6192797c6")
-		(at 137 51.225)
+		(at 142.9 79.575)
 		(property "Reference" "SW38"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -4426,7 +4426,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "2c816678-f8b5-4120-a82b-4cd2414f1d10")
-		(at 71 82)
+		(at 76.9 110.35)
 		(property "Reference" "SW25"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -5496,7 +5496,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "38a2ec59-8d94-45a8-8744-150b8e1297f6")
-		(at 129 86 -90)
+		(at 134.9 114.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D40"
@@ -5714,7 +5714,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "3950173c-7ff4-4d00-8d07-47b49ad1de54")
-		(at 130 64.275 -90)
+		(at 135.9 92.625 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D39"
@@ -5932,7 +5932,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "39d09018-a223-4c67-9152-7a8c6cb160c5")
-		(at 161 83 -90)
+		(at 166.9 111.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D43"
@@ -6150,7 +6150,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "3b1f0c07-be2e-441c-9c9d-d19342b3b987")
-		(at 96 36.5 -90)
+		(at 101.9 64.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D31"
@@ -6368,7 +6368,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "3c155a78-f881-4b38-98c7-b04730e7b7f1")
-		(at 79.5 64 -90)
+		(at 85.4 92.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D28"
@@ -6586,7 +6586,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "3e8263ff-a029-4181-922b-c49ae2416741")
-		(at 71 65.5)
+		(at 76.9 93.85)
 		(property "Reference" "SW24"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -7656,7 +7656,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "3f4ae1ac-6598-4d1d-a450-4a33e1b9c635")
-		(at 129 38 -90)
+		(at 134.9 66.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D35"
@@ -7874,12 +7874,12 @@
 	(footprint "kbd_Parts:Micon_BMP_7sKB"
 		(layer "F.Cu")
 		(uuid "48859e94-5f2c-4e18-a96b-d25d67bbf7f4")
-		(at 49.9522 57.659)
+		(at 55.8522 81.409)
 		(property "Reference" "U23"
 			(at 0.0928 0 270)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "c792e100-d5f8-4a3a-a2d3-0b433c4d491b")
+			(uuid "bcda33f0-ce82-44ad-b0be-8049d278a8ce")
 			(effects
 				(font
 					(size 1 1)
@@ -7891,7 +7891,7 @@
 			(at 0.0928 13.97 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01efb0eb-c08e-4863-99c3-5e72ca0ab627")
+			(uuid "20159410-f825-4b72-9646-83cc31dbedcf")
 			(effects
 				(font
 					(size 1 1)
@@ -7903,7 +7903,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb1fd770-0987-4ecc-b910-3bcf607b77b9")
+			(uuid "95ff3bcb-6dad-4736-92e7-576c2d679e40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7915,7 +7915,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "201fc76e-c1dd-47af-aa14-dc7164b481a0")
+			(uuid "c75af305-c5f0-4074-a67c-51c09bbfda3e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8732,7 +8732,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "4a046380-965b-4063-a992-bfe9cff7785c")
-		(at 63.5 61.5 -90)
+		(at 69.4 89.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D24"
@@ -8950,7 +8950,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "5398c7c7-e449-4d36-8559-d85aa406681f")
-		(at 87.5 63.5 180)
+		(at 93.4 91.85 180)
 		(property "Reference" "SW28"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -10020,7 +10020,7 @@
 	(footprint "kbd_Parts:Battery_2pin"
 		(layer "F.Cu")
 		(uuid "5a46c0c3-578d-4eae-b1d1-17d6a4a2a7ec")
-		(at 56.5 82.75 -90)
+		(at 62.4 111.1 -90)
 		(property "Reference" "J23"
 			(at -3 -2 90)
 			(layer "F.Fab")
@@ -10165,7 +10165,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "60e4fe91-c594-405b-94ee-2101e08a5f93")
-		(at 79.5 81 -90)
+		(at 85.4 109.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D29"
@@ -10383,7 +10383,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "79b83bec-15d1-4f07-9d0f-e1577f7dc1b0")
-		(at 133 46.5 -90)
+		(at 138.9 74.85 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D38"
@@ -10601,7 +10601,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "7c90c5c7-c6df-4960-90b1-fb7f9bd9d53e")
-		(at 75.06811 103.095004 10)
+		(at 80.96811 131.445004 10)
 		(property "Reference" "SW30"
 			(at -5.08 -6.349999 10)
 			(layer "F.SilkS")
@@ -11671,7 +11671,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "80c8bb78-396e-44da-9448-fd3b60b5ebfa")
-		(at 161.5 56 -90)
+		(at 167.4 84.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D41"
@@ -11889,7 +11889,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "873baa08-aa00-4a0c-9e1a-54cd84304d41")
-		(at 104 59.5 180)
+		(at 109.9 87.85 180)
 		(property "Reference" "SW32"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -12959,7 +12959,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "8ab08868-202e-4088-b90a-c5a37e9ddd77")
-		(at 87.5 80 180)
+		(at 93.4 108.35 180)
 		(property "Reference" "SW29"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -14029,7 +14029,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "94a8ed1e-7525-4207-8a9d-4e3fd0861d46")
-		(at 137 67.45)
+		(at 142.9 95.8)
 		(property "Reference" "SW39"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -15099,7 +15099,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "9d2de16e-a36e-4e11-8898-ee992c287966")
-		(at 63.5 78 -90)
+		(at 69.4 106.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D25"
@@ -15317,7 +15317,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "9ea2ef73-f2ef-4e58-9829-4281627efee5")
-		(at 104 76 180)
+		(at 109.9 104.35 180)
 		(property "Reference" "SW33"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -16387,7 +16387,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "a0035b56-898f-4323-995a-c426e1ca033d")
-		(at 63.5 44 -90)
+		(at 69.4 72.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D23"
@@ -16605,7 +16605,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "b162ab9c-00a9-42dd-a3a9-7f2c1203168f")
-		(at 123 59 -90)
+		(at 128.9 87.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D36"
@@ -16823,7 +16823,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "bfd4b3bd-48f9-4a9d-b240-63e640d221cb")
-		(at 87.5 47 180)
+		(at 93.4 75.35 180)
 		(property "Reference" "SW27"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -17893,7 +17893,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "c423f86a-93b8-4810-902c-bcdbb964e11b")
-		(at 153.5 67.5)
+		(at 159.4 95.85)
 		(property "Reference" "SW42"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -18963,7 +18963,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "c51e26f1-85a4-4c88-916f-014798734056")
-		(at 120.5 59.5)
+		(at 126.4 87.85)
 		(property "Reference" "SW36"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -20033,7 +20033,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "cbc0a7fd-7977-4c74-9e6d-db30b98b7b63")
-		(at 67 99.5 -80)
+		(at 72.9 127.85 -80)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D30"
@@ -20251,7 +20251,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "cda44b74-3496-43e3-b592-878f46d490ce")
-		(at 120.5 43)
+		(at 126.4 71.35)
 		(property "Reference" "SW35"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -21321,7 +21321,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "da8422b0-4e4b-4284-9aa3-9053ecf517fa")
-		(at 71 49)
+		(at 76.9 77.35)
 		(property "Reference" "SW23"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -22391,7 +22391,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "ddb121e4-0a21-4daf-9d8c-b169aded9b8a")
-		(at 104 43 180)
+		(at 109.9 71.35 180)
 		(property "Reference" "SW31"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -23461,7 +23461,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "dee04977-9d44-47a4-b8a4-38990d1179d1")
-		(at 120.5 76)
+		(at 126.4 104.35)
 		(property "Reference" "SW37"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -24531,7 +24531,7 @@
 	(footprint "kbd_Parts:ResetSW"
 		(layer "F.Cu")
 		(uuid "e3d67e19-a43d-4a15-a210-48219cfa60f8")
-		(at 42.5 79.5 90)
+		(at 48.4 107.85 90)
 		(property "Reference" "SW44"
 			(at 0 2.55 90)
 			(layer "F.SilkS")
@@ -24682,7 +24682,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "e7b0a145-a951-4bc8-9d98-31e0a9057ef1")
-		(at 79.5 48 -90)
+		(at 85.4 76.35 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D27"
@@ -24900,7 +24900,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "ee4be90d-ceb2-423e-9321-054e8b2e7c6f")
-		(at 153.5 51)
+		(at 159.4 79.35)
 		(property "Reference" "SW41"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -25970,7 +25970,7 @@
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
 		(uuid "f81648e5-d01f-4256-9834-efd252350d8c")
-		(at 161 67.725 -90)
+		(at 166.9 96.075 -90)
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D42"
@@ -26188,7 +26188,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "fd5ecfed-a303-4c3e-8c5b-23f03d8a97ad")
-		(at 153.5 84)
+		(at 159.4 112.35)
 		(property "Reference" "SW43"
 			(at -5.08 -6.35 0)
 			(layer "F.SilkS")
@@ -27258,7 +27258,7 @@
 	(footprint "kbd_SW:Choc_v2_Hotswap_1u_16.5"
 		(layer "F.Cu")
 		(uuid "ff3e283c-7ef2-4fd7-966d-4a5698e111a5")
-		(at 92.525274 100.449808 2.5)
+		(at 98.425274 128.799808 2.5)
 		(property "Reference" "SW34"
 			(at -5.08 -6.35 2.5)
 			(layer "F.SilkS")
@@ -27512,7 +27512,7 @@
 			(uuid "89681208-6c75-4284-90dd-c20072bfcd78")
 		)
 		(fp_line
-			(start -4.6 6.000003)
+			(start -4.6 6.000004)
 			(end -4.6 1.4)
 			(stroke
 				(width 0.15)
@@ -27792,7 +27792,7 @@
 			(uuid "751c3d3b-71a0-4b31-9bea-5a5f1232d5eb")
 		)
 		(fp_line
-			(start -1.3 7.989997)
+			(start -1.3 7.989996)
 			(end -1.3 3.6)
 			(stroke
 				(width 0.15)
@@ -27853,7 +27853,7 @@
 		)
 		(fp_line
 			(start -0.4 8.2)
-			(end -0.399997 3.6)
+			(end -0.399996 3.6)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -28299,7 +28299,7 @@
 			(uuid "d4216d73-8633-4366-9331-2ef5fe349710")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000003 -5.55 2.5)
+			(at 5.000004 -5.55 2.5)
 			(size 1 1)
 			(drill oval 1)
 			(layers "*.Cu" "*.Mask")
@@ -28326,180 +28326,244 @@
 		(embedded_fonts no)
 	)
 	(gr_line
-		(start 37.5 33.211393)
-		(end 37.5 93.211393)
+		(start 78.365651 61.1375)
+		(end 44.965858 61.1375)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "0081b4b8-67a4-4594-b9f2-230008b93f3a")
+		(uuid "00595814-4d6b-4d9a-a446-f5e6d3e638c3")
+	)
+	(gr_line
+		(start 80.36523 47.737079)
+		(end 138.743943 47.712506)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0b00b1b0-4b65-462b-9b30-dcdd126b3533")
+	)
+	(gr_line
+		(start 130.198983 126.197589)
+		(end 111.757319 141.727411)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0e553aee-a877-4198-bd0d-06c5190093f1")
+	)
+	(gr_line
+		(start 139.25 47.85)
+		(end 171.984208 67.056232)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0f8fd53c-6947-4321-bf01-75713101934c")
 	)
 	(gr_arc
-		(start 123.720832 97.946482)
-		(mid 124.022127 97.772028)
-		(end 124.364968 97.711393)
+		(start 54.139956 150.312491)
+		(mid 53.412897 150.199695)
+		(end 52.959724 149.62005)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "118c39fb-711a-4b0e-bd4c-d634e6a3ab25")
-	)
-	(gr_line
-		(start 80.5 32.211393)
-		(end 38.5 32.211393)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "1a1203e4-9458-419a-a7a6-53ef8eed5c1a")
-	)
-	(gr_line
-		(start 123.720832 97.946482)
-		(end 105.279168 113.476304)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "29460c8e-fd87-49e7-817a-ad87a21eda2e")
+		(uuid "2b2461b2-d952-4d0b-94a1-ce4ab81a0b5a")
 	)
 	(gr_arc
-		(start 165.233121 38.527552)
-		(mid 165.785217 38.880772)
-		(end 166 39.5)
+		(start 43.965858 62.137707)
+		(mid 44.258682 61.430487)
+		(end 44.965858 61.1375)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "2a18c292-137e-4377-8879-99e41fe34d09")
+		(uuid "3c83ce3f-2817-4c66-b0c0-2cc1443d2869")
+	)
+	(gr_line
+		(start 54.139956 150.312491)
+		(end 90.978151 141.9625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "44d659dd-5fd5-4942-b5a4-bbfba04cb953")
 	)
 	(gr_arc
-		(start 47.661805 122.061384)
-		(mid 46.93472 121.948612)
-		(end 46.481573 121.368943)
+		(start 79.365651 60.1375)
+		(mid 79.072755 60.844589)
+		(end 78.365651 61.1375)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "37f17809-69bb-4328-8e7c-2c82142e6476")
-	)
-	(gr_line
-		(start 37.5 93.211393)
-		(end 46.481573 121.368943)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "69c02f00-a192-4c1a-b601-a0a1644258e6")
-	)
-	(gr_line
-		(start 93.5 29.961393)
-		(end 80.5 32.211393)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "8c97bfeb-5f16-4aa5-9626-fec6f386a4af")
+		(uuid "4cc9d989-1323-4b20-af6a-76084b916d62")
 	)
 	(gr_arc
-		(start 37.5 33.211393)
-		(mid 37.792896 32.504291)
-		(end 38.5 32.211393)
+		(start 138.743943 47.7125)
+		(mid 139.006145 47.747489)
+		(end 139.25 47.85)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "9d115993-91f3-4f05-826f-fb9356c6afd3")
+		(uuid "5fd9d387-8a66-40d1-9131-f10f297e165b")
+	)
+	(gr_line
+		(start 90.978151 141.9625)
+		(end 111.113183 141.9625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "61f97ae2-d36b-4013-9aaa-7c9bc31a9ee1")
 	)
 	(gr_arc
-		(start 166 96.711393)
-		(mid 165.707109 97.418504)
-		(end 165 97.711393)
+		(start 111.757319 141.727411)
+		(mid 111.456027 141.901882)
+		(end 111.113183 141.9625)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "afe27dae-f11a-422b-b5fd-973d8135d31b")
+		(uuid "705bd9f6-b425-4cf3-acb3-e12f7baa1245")
 	)
 	(gr_line
-		(start 129.5 29.961393)
-		(end 165.233121 38.527552)
+		(start 79.365651 48.737079)
+		(end 79.365651 60.1375)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "b5cabcbf-ca10-40a5-ad7c-1e368910ee73")
-	)
-	(gr_line
-		(start 84.5 113.711393)
-		(end 104.635032 113.711393)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "bcc94a04-90f8-4d42-9fd5-802b27915770")
-	)
-	(gr_line
-		(start 165 97.711393)
-		(end 124.364968 97.711393)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c4e9a278-c232-4162-92d0-c84d850e66ef")
-	)
-	(gr_line
-		(start 93.5 29.961393)
-		(end 129.5 29.961393)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "cb75f8c5-c6c8-49e8-8b0f-4e1a171ec32d")
+		(uuid "7fa6ad4d-210b-4961-abdc-cf006c29ea8a")
 	)
 	(gr_arc
-		(start 105.279168 113.476304)
-		(mid 104.977873 113.650761)
-		(end 104.635032 113.711393)
+		(start 130.198983 126.197589)
+		(mid 130.500275 126.023119)
+		(end 130.843119 125.9625)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "d9d17135-f855-467d-8e82-20658881f197")
+		(uuid "7ff130f8-720a-4f66-9bcb-1f04aba46f36")
+	)
+	(gr_arc
+		(start 79.365651 48.737079)
+		(mid 79.658406 48.030153)
+		(end 80.36523 47.737079)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "84a1a03f-274a-4622-bc97-7d3495dcea62")
 	)
 	(gr_line
-		(start 166 39.5)
-		(end 166 96.711393)
+		(start 43.965651 61.1375)
+		(end 43.965651 61.1375)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "e75a63df-3a28-4a5c-b374-5abe947cb917")
+		(uuid "88dfb5e5-c62b-4dbf-9211-53d0466ba802")
+	)
+	(gr_arc
+		(start 44.025412 121.610664)
+		(mid 43.990032 121.46065)
+		(end 43.978119 121.306981)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a72cf43c-5363-4df8-bc86-d759060f1deb")
+	)
+	(gr_arc
+		(start 172.478151 124.9625)
+		(mid 172.185258 125.669607)
+		(end 171.478151 125.9625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "abdfb4ad-a621-45ef-bb3b-0fc45a350c6b")
 	)
 	(gr_line
-		(start 47.661805 122.061384)
-		(end 84.5 113.711393)
+		(start 171.478151 125.9625)
+		(end 130.843119 125.9625)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "f2a398f9-6328-438d-b4bc-fbe862693c31")
+		(uuid "ad281310-3f6f-440f-a790-d07d374e1827")
+	)
+	(gr_arc
+		(start 171.984208 67.056232)
+		(mid 172.345937 67.421762)
+		(end 172.478151 67.918732)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bdf5b46d-d5ea-4465-bd27-eda525b297f8")
+	)
+	(gr_line
+		(start 172.478151 67.918732)
+		(end 172.478151 124.9625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c58cbc3a-b026-459e-8701-9904198558d0")
+	)
+	(gr_line
+		(start 44.025412 121.610664)
+		(end 52.959724 149.62005)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ca1a20d1-b198-4690-ac24-103694fdfb3c")
+	)
+	(gr_line
+		(start 43.965858 62.137707)
+		(end 43.978119 121.306981)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cac5da83-b261-40c2-9f18-b386f2d197b0")
+	)
+	(gr_line
+		(start 43.965651 61.1375)
+		(end 43.965651 61.1375)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dae0e9f7-09f0-46d5-aa6a-8c134622fd63")
 	)
 	(embedded_fonts no)
 )
