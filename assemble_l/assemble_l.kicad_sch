@@ -3799,7 +3799,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Regulator"
 			(at 132.08 50.8 0)
 			(effects
 				(font
@@ -6624,7 +6624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:TGSW_MSK-12D19"
 			(at 111.76 55.88 0)
 			(effects
 				(font
@@ -6987,7 +6987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:Battery_AAA"
 			(at 150.876 64.77 90)
 			(effects
 				(font
