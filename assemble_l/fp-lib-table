@@ -5,4 +5,5 @@
   (lib (name "kbd_SW")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/KiCAD_FootPrint-master/kbd_SW")(options "")(descr ""))
   (lib (name "kbd_SW_Hole")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/KiCAD_FootPrint-master/kbd_SW_Hole")(options "")(descr ""))
   (lib (name "kbd_SW_PCBA")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/KiCAD_FootPrint-master/kbd_SW_PCBA")(options "")(descr ""))
+  (lib (name "kicad-lib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/kicad-footprints/kicad-lib.pretty")(options "")(descr ""))
 )
