@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "kbd")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/kbd-main/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
   (lib (name "Salicylic_kbd")(type "Legacy")(uri "${KICAD_USER_LIB_DIR}/KiCAD_FootPrint-master/Salicylic_kbd_Library/Salicylic_kbd.lib")(options "")(descr ""))
+  (lib (name "kicad-lib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}/kicad-symbols/kicad-symbols.kicad_sym")(options "")(descr ""))
 )
