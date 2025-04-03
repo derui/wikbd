@@ -499,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../order_20250402_jcl/assemble_r",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

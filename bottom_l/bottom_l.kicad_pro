@@ -463,7 +463,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "assemble_l.kicad_pro",
+    "filename": "bottom_l.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -499,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../order_anymany/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
