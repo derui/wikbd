@@ -1,5 +1,5 @@
 {
-  description = "Flake for Aozora Typer";
+  description = "Flake for wikbd";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
@@ -46,7 +46,7 @@
           default = pkgs.mkShell {
             buildInputs = [
               pkgs.kicad
-              pkgs.pre-commit
+              pkgs.inkscape
             ];
 
             shellHook = ''
